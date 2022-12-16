@@ -1,0 +1,17 @@
+
+*.zip
+cad-source-files/accessory-boards/battery/Battery_holder/\#auto_saved_files\#
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/mini_mustache.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/workspace.xml
+code/src/wifi_cfg.py
+code/joypad/wifi_cfg.py
+cad-source-files/accessory-boards/mo-stache/mo-stache.kicad_prl
+cad-source-files/accessory-boards/mo-stache/fp-info-cache
+cad-source-files/accessory-boards/mo-stache/_autosave-mo-stache.kicad_pcb
+cad-source-files/accessory-boards/mo-stache/_autosave-mo-stache.kicad_sch
+cad-source-files/accessory-boards/mo-stache/\#auto_saved_files\#
